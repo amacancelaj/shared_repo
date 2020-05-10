@@ -18,8 +18,9 @@ Proveedores de servicios de Internet (ISP) deben tratar todos los datos que viaj
 ## Dot-com bubble by Participant 2
 
 ### Causes
-
+La burbuja de las puntocom (también conocida como el boom de las puntocom, la burbuja tecnológica y la burbuja de Internet) fue una burbuja del mercado de valores causada por la especulación excesiva en las empresas relacionadas con Internet a fines de la década de 1990, un período de crecimiento masivo en el uso y adopción de Internet.
 ### Recomendations
+Los inversores tecnológicos han aprendido a ser más pacientes conforme las tasas de crecimiento de la industria se ha normalizado. Pero adivinar la última tendencia - redes sociales, juego social o Internet móvil- es un reto cada vez mayor. "Los días de una tasa de crecimiento anual compuesto del 30 ó 40 por ciento se han ido", dijo el analista de Broadpoint Amtech Brian Marshall. Marshall recomienda a los inversores encontrar "historias de crecimiento común, idiosincrático", como Ap ...
 
 
 ## Web 4.0 by Participant 3
