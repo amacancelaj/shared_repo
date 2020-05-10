@@ -23,6 +23,17 @@ Proveedores de servicios de Internet (ISP) deben tratar todos los datos que viaj
 
 
 ## Web 4.0 by Participant 3
+##WEB 4.0
+La web 4.0 propone un nuevo modelo de interacción entre usuario y web, está interacción es más completa y personalizada no  limitándose simplemente a mostrar información, sino comportándose como una ayuda que de soluciones concretas a las necesidades el usuarios.
+# Principales Características
+Las características que tiene este tipo de web son:
+-	Uso de gafas especiales: Estás ayudarán a que los usuarios puedan suprimir la realidad física con la realidad virtual.
+- Podremos dialogar de forma natural y on-line con una agente virtual inteligente.
+-Ordenadores tendrán gran potencia de proceso 1016 cálculos por segundo.
+-	Explotación más eficiente de la web semántica.
+-	Accesibilidad. La creación de nuevos modelos de comunicación con la máquina permitirá acercar Internet a las personas A través de la inclusión de agentes personalizados que interactúen con el usuario y aprendan de él se busca mejorar la experiencia para los usuarios.  
+- El agente interactúa con el usuario ofreciendo contenidos personalizados, tratará de corregir la diferencia entre lo que quiere encontrar y lo que encuentran.
+
 
 ### Main features
  - Feature 1 ...
@@ -75,7 +86,7 @@ CARACTERÍSTICAS:
 
 - Pocos productores de contenidos
 
- 
+
 
 WEB 2.0
 
@@ -101,7 +112,7 @@ CARACTERÍSTICAS:
 
 - Facilita la publicación, la investigación y la consulta de contenidos web.
 
- 
+
 
 WEB 3.0
 
