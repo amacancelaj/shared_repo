@@ -4,7 +4,7 @@
 ## Web Neutrality by Participant 1
 
 ### What is it?
-Proveedores de servicios de Internet (ISP) deben tratar todos los datos que viajan a través de sus redes de manera justa, sin discriminación inadecuada en favor de aplicaciones, sitios o servicios particulares, es un principio que debe mantenerse
+Proveedores de servicios de Internet (ISP) deben tratar todos los datos que viajan a través de sus redes de manera justa, sin discriminación inadecuada en favor de aplicaciones, sitios o servicios particulares, es un principio que debe mantenerse.
 
 ### Advantages
   - Evolución libre del internet.
@@ -23,12 +23,10 @@ Proveedores de servicios de Internet (ISP) deben tratar todos los datos que viaj
 La burbuja de las puntocom (también conocida como el boom de las puntocom, la burbuja tecnológica y la burbuja de Internet) fue una burbuja del mercado de valores causada por la especulación excesiva en las empresas relacionadas con Internet a fines de la década de 1990, un período de crecimiento masivo en el uso y adopción de Internet.
 
 ### Recomendations
-Los inversores tecnológicos han aprendido a ser más pacientes conforme las tasas de crecimiento de la industria se ha normalizado. Pero adivinar la última tendencia - redes sociales, juego social o Internet móvil- es un reto cada vez mayor. "Los días de una tasa de crecimiento anual compuesto del 30 ó 40 por ciento se han ido", dijo el analista de Broadpoint Amtech Brian Marshall. Marshall recomienda a los inversores encontrar "historias de crecimiento común, idiosincrático", como Ap ...
+Los inversores tecnológicos han aprendido a ser más pacientes conforme las tasas de crecimiento de la industria se ha normalizado. Pero adivinar la última tendencia - redes sociales, juego social o Internet móvil- es un reto cada vez mayor. "Los días de una tasa de crecimiento anual compuesto del 30 ó 40 por ciento se han ido", dijo el analista de Broadpoint Amtech Brian Marshall. Marshall recomienda a los inversores encontrar "historias de crecimiento común, idiosincrático".
 
 
 ## Web 4.0 by Participant 3
-
-##WEB 4.0
 
 ### Main features
 Las características que tiene este tipo de web son:
@@ -58,7 +56,7 @@ Las características que tiene este tipo de web son:
 - Cada ciudadano recibirá con el DNI, un email y un teléfono.
 - Interoperatividad entre plataformas y redes.
 - Geolocalización para saber donde están los conocidos.
-- Búsquedas inteligentes
+- Búsquedas inteligentes.
 - Web semántica
 
 ### Example of opportunities
@@ -91,10 +89,10 @@ La Web 2.0 está basada en comunidades de usuarios y una gama especial de servic
 - Presencia informativa y accesible a través de la red.
 - Internet se convierte en un servidor de conocimiento estático de acceso limitado por razones técnicas, económicas y geográficas.
 - Páginas creadas a partir del código HTMl difícilmente actualizables y con nula interacción del usuario en las mismas.
-- Discurso lineal: emisor-receptor
-- Sitios direccionales y no colaborativos
-- Los usuarios son “lectores consumidores”
-- Pocos productores de contenidos
+- Discurso lineal: emisor-receptor.
+- Sitios direccionales y no colaborativos.
+- Los usuarios son “lectores consumidores”.
+- Pocos productores de contenidos.
 
 ### Example of opportunities
 
